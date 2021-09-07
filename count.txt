@@ -1,0 +1,2 @@
+229346 229346 458692 Yverified.txt <-- The numbers stand for the word count of verified reviews
+2876174 2876174 5752348 Nverified.txt <-- The numbers here stand for the the word count of the non-verified files

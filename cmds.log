@@ -1,0 +1,39 @@
+    1  history
+    2  ls
+    3  gunzip amazon_reviews_us_Books_v1_02.tsv.gz
+    4  ls
+    5  cat amazon_reviews_us_Books_v1_02.tsv
+    6  ls
+    7  nano amazon_reviews_us_Books_v1_02.tsv
+    8  grey Yverified.txt > Yverified.txt
+    9  grep Yverified.txt > Yverified.txt
+   10  grep Y verified.txt > Yverified.txt
+   11  awk -F"\t" '{print $12}' amazon_reviews_us_Books_v1_02.tsv
+   12  cut -d'   ' -f12 amazon_reviews_us_Books_v1_02.tsv
+   13  grep Y verified.txt > Yverified.txt
+   14  cut -d'	' -f12 amazon_reviews_us_Books_v1_02.tsv
+   15  ls
+   16  cat Yverified.txt
+   17  grep Y verified.txt
+   18  ls
+   19  cat amazon_reviews_us_Books_v1_02.tsv
+   20  ls
+   21  rm Yverified.txt
+   22  ls
+   23  cut -d'	' -f12 amazon_reviews_us_Books_v1_02.tsv > verified.txt
+   24  ls
+   25  cat verified.txt
+   26  grep Y verified.txt > Yverified.txt
+   27  ls
+   28  cat Yverified.txt
+   29  grep N verified.txt > Nverified.txt
+   30  l
+   31  wc Yverified.txt
+   32  wc Yverified.txt > count.txt
+   33  wc Nverified.txt >> count.txt
+   34  cat count.txt
+   35  nano count.txt
+   36  vi count.txt
+   37  nano count.txt
+   38  cat count.txt
+   39  history >cmds.log
